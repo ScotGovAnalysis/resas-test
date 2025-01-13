@@ -2,4 +2,4 @@
 
 This repository is for testing GitHub features.
 
-Contact Alice.
+Contact Alice by email.
